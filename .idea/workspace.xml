@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/de/tuberlin/dima/dbt/exercises/logging/LogManager.java" line="125" mnemonic="7" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="edc38756-f2f2-457a-9f35-97d5d150cedf" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/dbt_logging$LogManagerTest.ic" NAME="LogManagerTest Coverage Results" MODIFIED="1549984628389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>de.tuberlin.dima.dbt.exercises.logging.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="209" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1164029413">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="16" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.14" value="4" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="4" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="19" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="10" />
+          <entry key="java" value="22" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="10" />
+          <entry key="JAVA" value="22" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2249" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2413" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/de/tuberlin/dima/dbt/exercises/logging/LogManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="431">
+              <caret line="228" column="38" selection-start-line="228" selection-start-column="38" selection-end-line="228" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/List.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4960">
+              <caret line="333" column="12" selection-start-line="333" selection-start-column="12" selection-end-line="333" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/de/tuberlin/dima/dbt/grading/logging/LogManagerTestHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="592">
+              <caret line="44" column="41" selection-start-line="44" selection-start-column="41" selection-end-line="44" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>dirt</find>
+      <find>while</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/de/tuberlin/dima/dbt/exercises/logging/LogManagerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/tuberlin/dima/dbt/exercises/logging/LogManager.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="dbt-logging" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="dbt-logging" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="20" />
+    <option name="width" value="1945" />
+    <option name="height" value="1105" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Tests'; set:Tests; class com.intellij.psi.search.scope.TestsScope">
+          <expand>
+            <path>
+              <item name="dbt-logging" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="dbt-logging" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="dbt-logging" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="dbt-logging" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="dbt-logging" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="dbt-logging" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="dbt-logging" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="dbt-logging" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="dbt-logging" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="dbt-logging" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="dbt-logging" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="dbt-logging" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="dbt-logging" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="dbt-logging" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="dbt-logging" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="dbt-logging" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="de" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="dbt-logging" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="dbt-logging" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="de" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="tuberlin" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="dbt-logging" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="dbt-logging" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="de" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="tuberlin" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="dima" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="dbt-logging" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="dbt-logging" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="de" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="tuberlin" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="dima" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="dbt" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="dbt-logging" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="dbt-logging" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="de" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="tuberlin" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="dima" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="dbt" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="exercises" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="dbt-logging" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="dbt-logging" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="de" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="tuberlin" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="dima" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="dbt" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="exercises" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="logging" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dbt-logging" type="58d84e3e:PackageViewProjectNode" />
+              <item name="dbt-logging" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="dbt-logging" type="58d84e3e:PackageViewProjectNode" />
+              <item name="dbt-logging" type="616d4139:PackageViewModuleNode" />
+              <item name="de.tuberlin.dima.dbt" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="dbt-logging" type="58d84e3e:PackageViewProjectNode" />
+              <item name="dbt-logging" type="616d4139:PackageViewModuleNode" />
+              <item name="de.tuberlin.dima.dbt" type="1f31426a:PackageElementNode" />
+              <item name="exercises.logging" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="dbt-logging" type="58d84e3e:PackageViewProjectNode" />
+              <item name="dbt-logging" type="616d4139:PackageViewModuleNode" />
+              <item name="de.tuberlin.dima.dbt" type="1f31426a:PackageElementNode" />
+              <item name="grading.logging" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549999710769" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.LogManagerTest">
+    <configuration name="LogManagerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dbt-logging" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.tuberlin.dima.dbt.exercises.logging.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.tuberlin.dima.dbt.exercises.logging" />
+      <option name="MAIN_CLASS_NAME" value="de.tuberlin.dima.dbt.exercises.logging.LogManagerTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogManagerTest.beginTransaction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dbt-logging" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.tuberlin.dima.dbt.exercises.logging.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.tuberlin.dima.dbt.exercises.logging" />
+      <option name="MAIN_CLASS_NAME" value="de.tuberlin.dima.dbt.exercises.logging.LogManagerTest" />
+      <option name="METHOD_NAME" value="beginTransaction" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogManagerTest.commit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dbt-logging" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.tuberlin.dima.dbt.exercises.logging.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.tuberlin.dima.dbt.exercises.logging" />
+      <option name="MAIN_CLASS_NAME" value="de.tuberlin.dima.dbt.exercises.logging.LogManagerTest" />
+      <option name="METHOD_NAME" value="commit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogManagerTest.update" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dbt-logging" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.tuberlin.dima.dbt.exercises.logging.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.tuberlin.dima.dbt.exercises.logging" />
+      <option name="MAIN_CLASS_NAME" value="de.tuberlin.dima.dbt.exercises.logging.LogManagerTest" />
+      <option name="METHOD_NAME" value="update" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogManagerTest.updateRequiresPreviousBeginTransaction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dbt-logging" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.tuberlin.dima.dbt.exercises.logging.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.tuberlin.dima.dbt.exercises.logging" />
+      <option name="MAIN_CLASS_NAME" value="de.tuberlin.dima.dbt.exercises.logging.LogManagerTest" />
+      <option name="METHOD_NAME" value="updateRequiresPreviousBeginTransaction" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.LogManagerTest" />
+      <item itemvalue="JUnit.LogManagerTest.beginTransaction" />
+      <item itemvalue="JUnit.LogManagerTest.update" />
+      <item itemvalue="JUnit.LogManagerTest.updateRequiresPreviousBeginTransaction" />
+      <item itemvalue="JUnit.LogManagerTest.commit" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LogManagerTest" />
+        <item itemvalue="JUnit.LogManagerTest.update" />
+        <item itemvalue="JUnit.LogManagerTest.commit" />
+        <item itemvalue="JUnit.LogManagerTest.updateRequiresPreviousBeginTransaction" />
+        <item itemvalue="JUnit.LogManagerTest.beginTransaction" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="edc38756-f2f2-457a-9f35-97d5d150cedf" name="Default Changelist" comment="" />
+      <created>1548523033650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548523033650</updated>
+      <workItem from="1548523034965" duration="1124000" />
+      <workItem from="1548613389797" duration="1289000" />
+      <workItem from="1548614795794" duration="9567000" />
+      <workItem from="1548684899584" duration="3137000" />
+      <workItem from="1548765695862" duration="2605000" />
+      <workItem from="1548770228714" duration="1331000" />
+      <workItem from="1548771829982" duration="691000" />
+      <workItem from="1548772907673" duration="599000" />
+      <workItem from="1548873938650" duration="3401000" />
+      <workItem from="1549043530698" duration="893000" />
+      <workItem from="1549049792453" duration="9456000" />
+      <workItem from="1549651838106" duration="7885000" />
+      <workItem from="1549729603218" duration="4198000" />
+      <workItem from="1549983447075" duration="5735000" />
+      <workItem from="1549992598849" duration="3443000" />
+      <workItem from="1550071523141" duration="31000" />
+      <workItem from="1550071685836" duration="45000" />
+      <workItem from="1550152557280" duration="3365000" />
+      <workItem from="1550857663036" duration="39000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="LogManagerTest - 2019.02.12 at 20h 14m 31s.xml">
+      <configuration name="LogManagerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LogManagerTest - 2019.02.12 at 20h 21m 33s.xml">
+      <configuration name="LogManagerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LogManagerTest - 2019.02.12 at 20h 21m 47s.xml">
+      <configuration name="LogManagerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LogManagerTest - 2019.02.12 at 20h 23m 40s.xml">
+      <configuration name="LogManagerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LogManagerTest - 2019.02.12 at 20h 25m 59s.xml">
+      <configuration name="LogManagerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LogManagerTest - 2019.02.12 at 20h 27m 50s.xml">
+      <configuration name="LogManagerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LogManagerTest - 2019.02.14 at 15h 14m 39s.xml">
+      <configuration name="LogManagerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LogManagerTest - 2019.02.14 at 15h 19m 06s.xml">
+      <configuration name="LogManagerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LogManagerTest - 2019.02.14 at 15h 20m 38s.xml">
+      <configuration name="LogManagerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LogManagerTest - 2019.02.14 at 15h 34m 15s.xml">
+      <configuration name="LogManagerTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="58834000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19127516" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3243626" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24966443" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3295302" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.21543624" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3295302" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/de/tuberlin/dima/dbt/exercises/logging/LogManager.java</url>
+          <line>357</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/de/tuberlin/dima/dbt/exercises/logging/LogManager.java</url>
+          <line>342</line>
+          <properties class="de.tuberlin.dima.dbt.exercises.logging.LogManager" method="undoPass">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit-dep/4.8.1/junit-dep-4.8.1.jar!/org/junit/runner/JUnitCore.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="31" column="72" selection-start-line="31" selection-start-column="72" selection-end-line="31" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/jdk/internal/reflect/NativeMethodAccessorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="68" column="33" selection-start-line="68" selection-start-column="33" selection-end-line="68" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit-dep/4.8.1/junit-dep-4.8.1.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="9" column="129" selection-start-line="9" selection-start-column="129" selection-end-line="9" selection-end-column="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit-dep/4.8.1/junit-dep-4.8.1.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="9" column="62" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit-dep/4.8.1/junit-dep-4.8.1.jar!/org/junit/internal/runners/statements/InvokeMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit-dep/4.8.1/junit-dep-4.8.1.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/tuberlin/dima/dbt/exercises/logging/LogRecordType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/tuberlin/dima/dbt/exercises/logging/LogRecord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="111" selection-start-line="111" selection-end-line="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="1121" column="15" selection-start-line="1121" selection-start-column="15" selection-end-line="1121" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="324" column="12" selection-start-line="324" selection-start-column="12" selection-end-line="324" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-276">
+          <caret line="355" column="11" selection-start-line="355" selection-start-column="11" selection-end-line="355" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/de/tuberlin/dima/dbt/exercises/logging/LogManagerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="210" selection-start-line="210" selection-end-line="210" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/tuberlin/dima/dbt/exercises/logging/LogManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="228" column="38" selection-start-line="228" selection-start-column="38" selection-end-line="228" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4960">
+          <caret line="333" column="12" selection-start-line="333" selection-start-column="12" selection-end-line="333" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/tuberlin/dima/dbt/grading/logging/LogManagerTestHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="44" column="41" selection-start-line="44" selection-start-column="41" selection-end-line="44" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
